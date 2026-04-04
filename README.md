@@ -64,6 +64,12 @@ The analysis is based on the Olist e-commerce dataset, which includes:
 
 ---
 
+## Sample Visualization
+
+![Delay vs Review](delay_vs_review.png)
+
+---
+
 ## Recommendations
 
 - Prioritize quality analysis in high-volume, low-satisfaction categories.
